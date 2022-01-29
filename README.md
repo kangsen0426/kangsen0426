@@ -25,6 +25,4 @@ Here are some ideas to get you started:
 
 # 🎬关于我的GitHub
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kangsen0426&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsen0426&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kangsen0426&show_icons=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsen0426&layout=compact)
