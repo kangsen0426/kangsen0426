@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 👋你好啊，我是千北！
+
+- 🙋‍♂️一名在校学生
+- 💻热爱前端开发
+- ⌨️掘金：https://juejin.cn/user/2436962129554429
+
+请多多指教！😃😃😃
+
+# 🎬关于我的GitHub
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kangsen0426&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangsen0426&layout=compact)
