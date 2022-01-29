@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋你好啊，我是千北！
+# 👋Hi，我是千北！
 
 - 🙋‍♂️一名在校学生
 - 💻热爱前端开发
