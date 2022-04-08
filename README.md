@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 🙋‍♂️一名在校学生
 - 💻热爱前端开发
+- 🪶语雀：https://www.yuque.com/qianbei-wdino
 - ⌨️掘金：https://juejin.cn/user/2436962129554429
 
 请多多指教！😃😃😃
